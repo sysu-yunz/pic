@@ -3,19 +3,22 @@
     {
       "domain": [
         "anthropic.com",
-        "claude.ai"
+        "claude.ai",
+        "intercom.io"
       ]
     },
     {
       "domain_keyword": [
         "anthropic",
-        "claude"
+        "claude",
+        "intercom"
       ]
     },
     {
       "domain_suffix": [
         "anthropic.com",
-        "claude.ai"
+        "claude.ai",
+        ""intercom.io""
       ]
     },
     {
